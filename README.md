@@ -1,5 +1,18 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## How to use
+
+```bash
+npx create-next-app ninja-list --use-npm
+```
+## Configuring typescript
+
+```bash
+npm install -D typescript @types/node @types/react @types/react-dom 
+```
+
+Follow [this tutorial](https://nextjs.org/learn/excel/typescript) to change the files to Typescript extension
+
 ## Getting Started
 
 First, run the development server:
