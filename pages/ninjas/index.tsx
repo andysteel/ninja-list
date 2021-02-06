@@ -1,7 +1,7 @@
-const Ninjas = () => (
-  <div>
-    <h1>Ninjas</h1>
-  </div>
+import Ninjas from "../../src/screens/Ninjas";
+
+const PageNinjas = () => (
+  <Ninjas />
 );
 
-export default Ninjas;
+export default PageNinjas;
