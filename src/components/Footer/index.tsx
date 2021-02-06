@@ -1,11 +1,11 @@
 const Footer = () => (
-  <div>
+  <footer>
     Copyright
     {' '}
     {new Date().getFullYear()}
     {' '}
     Ninja List
-  </div>
+  </footer>
 );
 
 export default Footer;
